@@ -8,6 +8,6 @@ To bring up the wizard, click the magic wand <i class="fa fa-magic"></i> on the 
 
 Simply search for the feature you're looking for, and the list of options will filter itself to match your keywords.
 
-We're always adding new items to the list of options in the wizard. If you think we missed something import, just email [support@kumu.io](mailto:support@kumu.io) and let us know!
+We're always adding new items to the list of options in the wizard. If you think we missed something important, just email [support@kumu.io](mailto:support@kumu.io) and let us know!
 
 <span class="edit-link"><a href="https://github.com/kumu/docs/blob/master/guides/wizard.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
